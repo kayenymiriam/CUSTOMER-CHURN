@@ -40,6 +40,15 @@ This could be due to the fact that majority of middle income and low income clas
 -Their average age was 32.11
 -They opted for an average of 2 services.
 
+![](https://github.com/kayenymiriam/CUSTOMER-CHURN/blob/main/dashboard_c.png)
+
+
+
+
+
+
+
+
 CONCLUSIONS AND RECOMMENDATIONS
 -	Those in the middle income class are less likely to churn
 -	Most youth travel often
